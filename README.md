@@ -8,9 +8,7 @@ Used an Api to get the weather data from all the cities.
 
 # Screenshots
 
-<center>
 ![figure 1.](https://github.com/adarshajit/weather-app/blob/master/output.png)
-</center>
 
 
 
